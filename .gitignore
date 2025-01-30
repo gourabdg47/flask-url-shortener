@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# JSON database files
+*.json
+!default.json  # Keep the default JSON file but ignore others
+
+# Log files
+logs/
+*.log
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Python dependencies
+*.egg-info/
+*.dist-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
